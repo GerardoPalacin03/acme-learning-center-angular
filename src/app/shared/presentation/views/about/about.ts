@@ -5,8 +5,8 @@ import {TranslatePipe} from '@ngx-translate/core';
   imports: [
     TranslatePipe
   ],
-  selector: 'app-home',
-  styleUrl: './home.css',
-  templateUrl: './home.html',
+  selector: 'app-about',
+  styleUrl: './about.css',
+  templateUrl: './about.html',
 })
-export class Home {}
+export class About {}
