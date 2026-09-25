@@ -1,4 +1,4 @@
-export interface BaseResource {
+export interface BaseResponse {
 
 }
 
